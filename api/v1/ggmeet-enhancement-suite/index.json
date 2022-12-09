@@ -1,10 +1,5 @@
 {
-    "success": true,
-    "uses": 1,
-    "purchase": {
-        "email": "keyfermath@gmail.com",
-        "variants": "(Unlimited Licenses)",
-        "subscription_cancelled_at": false,
-        "subscription_failed_at": false
-    }
+  "success": true,
+  "isPro": true,
+  "licenseKey": "licenseKey"
 }
